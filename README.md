@@ -22,6 +22,12 @@ A refactoring of the code on the homepage for Horiseon Social Solution Services,
 * Clean-up of HTML and CSS elements to follow best practices.
 * Consolidate redundant CSS properties.
 
+## Product
+
+[Live Site URL](https://tmkeller.github.io/html-css-homework/.)
+
+![mockup](./assets/images/horiseon_mockup.png)
+
 ## Technologies
 
 ![html](https://img.shields.io/badge/html-57%25-blue)
